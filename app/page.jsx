@@ -6,7 +6,12 @@ import Img from "../components/ui/Image";
 function PostCard(post) {
   return (
     <div className="mb-8">
-      <h1>Test</h1>
+      <h1>Azure Test. Names</h1>
+      <ul>
+        <li>Shiraz</li>
+        <li>Uthman</li>
+        <li>Majeed</li>
+      </ul>
       <h2 className="mb-1 text-xl">
         <div className="text-center">
           <Link
